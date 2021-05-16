@@ -1,0 +1,11 @@
+.header h1 {
+  letter-spacing: 5px;
+}
+
+.top-text {
+  padding-left: 15px;
+}
+
+.top-text p {
+  line-height: 50px;
+}
